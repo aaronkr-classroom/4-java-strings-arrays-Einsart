@@ -1,0 +1,19 @@
+
+public class EX501 {
+	// my method
+	public static void hello(String name) {
+		System.out.println("Hello, " + name);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		hello("Aaron");
+		hello("Tom");
+		hello("Roky");
+		hello("Loky");
+		hello("Soky");
+		hello("");
+
+	}
+
+}
